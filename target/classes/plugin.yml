@@ -1,8 +1,0 @@
-name: DellunaBackpack
-version: 1.0-SNAPSHOT
-main: me.lewin.dellunabackpack.Main
-api-version: 1.18
-commands:
-  bp:
-    description: Delluna metro system.
-    usage: /<command>
